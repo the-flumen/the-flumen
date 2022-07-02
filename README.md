@@ -50,7 +50,7 @@
 - 높은 목표 보다는 기본기가 있는 개발자가 되고자 합니다.
 ```
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=namelessRiver&hide=stars&show_icons=true&theme=tokyonight"/></a>&nbsp 
+   <img src="https://github-readme-stats.vercel.app/api?username=the-flumen&hide=stars&show_icons=true&theme=tokyonight"/></a>&nbsp 
 </p>
 
 <br>
