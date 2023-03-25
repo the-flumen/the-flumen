@@ -1,7 +1,3 @@
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Mijin Park (River)&fontSize=70&animation=twinkling"/></a>&nbsp
-</p>
-
 
 <p align="center">🇰🇷 en</p>
 
